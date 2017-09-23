@@ -1,5 +1,4 @@
 http://education.launchcode.org/lc101-unit4-seattle/about/index.html
-http://education.launchcode.org/lc101-unit4-seattle/assignments/index.html
 http://education.launchcode.org/lc101-unit4-seattle/class-prep/1/index.html
 http://education.launchcode.org/lc101-unit4-seattle/class-prep/2/index.html
 http://education.launchcode.org/lc101-unit4-seattle/class-prep/3/index.html
@@ -11,5 +10,4 @@ http://education.launchcode.org/lc101-unit4-seattle/classes/index.html
 http://education.launchcode.org/lc101-unit4-seattle/index.html
 http://education.launchcode.org/lc101-unit4-seattle/issues/index.html
 http://education.launchcode.org/lc101-unit4-seattle/objectives/index.html
-http://education.launchcode.org/lc101-unit4-seattle/studios/index.html
 http://education.launchcode.org/lc101-unit4-seattle/sitemap.html
