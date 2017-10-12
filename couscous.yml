@@ -26,9 +26,6 @@ menu:
         classes:
             text: Classes
             relativeUrl: classes/
-        studios:
-            text: Studios
-            relativeUrl: studios/
         assignments:
             text: Assignments
             relativeUrl: assignments/
